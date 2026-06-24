@@ -16,7 +16,7 @@
 #define ESP8266_STA_AP_MODE                 3
 
 #define WIFI_SSID                           "信号不好"
-#define WIFI_PWD                            "djh18850334435"
+#define WIFI_PWD                            "xxxxxxxxxx"
 
 #define TCP_SERVER_IP                       "192.168.31.193"
 #define TCP_SERVER_PORT                     "8080"
